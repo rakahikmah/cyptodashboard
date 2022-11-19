@@ -1,6 +1,6 @@
 @extends('layouts.backend-dashboard.app')
-@section('title','HupayX')
-@section('breadcrumb','HupayX')
+@section('title','Transaction')
+@section('breadcrumb','Transaction')
 
 @section('content')
     @include('dashboard.html')

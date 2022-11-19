@@ -33,3 +33,9 @@
 <script src="{{asset('public/assets/AdminLTE/dist/js/pages/dashboard.js')}}"></script>
 <!-- AdminLTE for demo purposes -->
 <script src="{{asset('public/assets/AdminLTE/dist/js/demo.js')}}"></script>
+
+<!-- OPTIONAL SCRIPTS -->
+<script src="{{asset('public/assets/AdminLTE/plugins/chart.js/Chart.min.js')}}"></script>
+<script src="{{asset('public/assets/AdminLTE/dist/js/demo.js')}}"></script>
+<script src="{{asset('public/assets/AdminLTE/dist/js/pages/dashboard3.js')}}"></script>
+<script src="https://widgets.coingecko.com/coingecko-coin-ticker-widget.js"></script>
