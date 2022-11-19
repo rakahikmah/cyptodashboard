@@ -203,7 +203,7 @@
 
 <body>
     <div class="login">
-        <h1>Login</h1>
+        <h1>Login Dashboard</h1>
         <form method="post">
             <input type="text" name="u" placeholder="Username" required="required" />
             <input type="password" name="p" placeholder="Password" required="required" />
